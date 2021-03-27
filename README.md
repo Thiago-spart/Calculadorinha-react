@@ -11,6 +11,7 @@
 <p align="center">
  <a href="#Demonstration">Demonstration</a> •
  <a href="#how">How it works</a> •
+ <a href="#Requirements">Requirements</a> •
  <a href="#usage">Usage</a> • 
  <a href="#technologies">Technologies Versions</a> • 
  <a href="#license">License</a>  
@@ -19,7 +20,7 @@
 ## Demonstration :desktop_computer:
 
 <h1 align="center">
-  <img alt="#" title="#example" src="#" />
+  <img alt="inital screen" src="./src/example-calculator.png" />
 </h1>
 
 ### Features
